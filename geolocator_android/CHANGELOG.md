@@ -1,3 +1,15 @@
+## 5.0.0
+
+- **BREAKING CHANGE:** for Flutter `3.27.0` and below. Make sure you'll upgrade Flutter to `3.29.0` or above before using this version.
+* Fixes deprecation warnings
+
+## 4.6.2
+
+* Updates compileSDKVersion to 35
+* Updates Fixed warnings in Android package and Android example project
+* Updates gradle version
+* Updates com.android.application version to 8.7.0
+
 ## 4.6.1
 
 * Fixes a bug where the plugin throws an exception while requesting locations updates with coarse location permission only.
