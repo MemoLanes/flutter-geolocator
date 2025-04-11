@@ -1,3 +1,11 @@
+## NEXT
+
+- Bump `androidx.core:core` to version 1.15.0
+
+## 5.0.1
+
+- Bump `flutter_lints` to version 5.0.0
+
 ## 5.0.0
 
 - **BREAKING CHANGE:** for Flutter `3.27.0` and below. Make sure you'll upgrade Flutter to `3.29.0` or above before using this version.
