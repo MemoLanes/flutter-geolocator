@@ -1,4 +1,14 @@
-## 5.0.0
+## 14.0.2
+
+- Adds section about `UIBackgroundModes` to the README. 
+- Adds Linux as a supported platform to pubspec. 
+
+## 14.0.1
+
+- Adds section about `FOREGROUND_SERVICE_LOCATION` to the README. 
+- Fixes PlatformException in example app for Android 14 (SDK level 34) and newer by updating manifest permissions.
+
+## 14.0.0
 
 - **BREAKING CHANGE:** for Flutter `3.27.0` and below. Make sure you'll upgrade Flutter to `3.29.0` or above before using this version.
 - Bump `flutter_lints` to version of afp to 5.0.0
